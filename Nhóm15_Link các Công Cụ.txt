@@ -1,0 +1,5 @@
+Figma: https://www.figma.com/file/78W6XmSRGv7JhU4xrkRC9n/%C4%90%E1%BB%93-%C3%A1n--C%C3%B4ng-c%E1%BB%A5-v%C3%A0-ph%C3%A1t-tri%E1%BB%83n-ph%E1%BA%A7n-m%E1%BB%81m?type=design&node-id=0%3A1&mode=design&t=luqKUbytK37iELgz-1
+
+Github: https://github.com/hduyen1511/App_OnThiGPLX.git
+
+Jira: https://kduyen1511.atlassian.net/jira/software/projects/KAN/boards/1/timeline?selectedIssue=KAN-9
